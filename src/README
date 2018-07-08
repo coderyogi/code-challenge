@@ -1,4 +1,10 @@
 Your source files reside in this directory
+
+relation_model.sql
+
+Explains the relation model in detail.
+SQLs written against MySQL db.
+
 top_customer.py
 
 Should be run independently and is self sufficient.
@@ -7,7 +13,6 @@ That file is under the sample_input folder in this repository or can be found at
 https://raw.githubusercontent.com/coderyogi/code-challenge/master/sample_input/events.txt
 
 The same code can also be found in Google Code Colab at
-
 https://colab.research.google.com/drive/1e1Fz9V76LUW7xEgLafFIYMKX6a0wQqX6
 
 Since this is self sufficient have not including any error handling conditions for graceful exit.
