@@ -1,1 +1,13 @@
 Your output data will end up here
+Total Records in data set is 40
+              total_amount
+customer_id               
+96f55c7d8f46    241.798734
+96f55c7d8f42    211.618987
+96f55c7d8f48    115.443038
+Total Records in data set is 41
+              total_amount
+customer_id               
+96f55c7d8f46    241.798734
+96f55c7d8f48    233.460759
+96f55c7d8f42    211.618987
